@@ -1,0 +1,54 @@
+《龙女奇遇记》3D Demo · v05c 音频来源与许可
+============================================
+本目录全部音频均为可商用的免费素材（均为 CC0 / Public Domain）。
+署名不是许可要求，但在此记录来源，便于核对。未使用生成式 AI 音频。
+
+BGM
+---
+bgm_safe.ogg
+  曲名: Asianoriental1
+  作者: Tozan
+  来源: https://opengameart.org/content/asianoriental1
+  许可: CC0 1.0
+  说明: 古风东方器乐（筝/尺八风格），用于终南山·安全区。已转码为较小的 Ogg Vorbis。
+
+bgm_wild.ogg
+  曲名: Determined Pursuit (epic orchestra loop)
+  作者: Emma_MA
+  来源: https://opengameart.org/content/determined-pursuit-epic-orchestra-loop
+  许可: CC0 1.0
+  说明: 更紧张的管弦循环，用于终南山·野外 / 战斗。已从 WAV 转码为较小的 Ogg Vorbis。
+
+SFX · 脚步、跳跃、受击、拾取等
+------------------------------
+sfx_footstep_01.ogg … sfx_footstep_04.ogg, sfx_jump.ogg,
+sfx_hit_01.ogg … sfx_hit_03.ogg, sfx_hurt_enemy.ogg, sfx_death.ogg,
+sfx_hurt_player.ogg, sfx_pickup.ogg
+  来源包: 50 RPG sound effects
+  作者: Kenney (www.kenney.nl)
+  页面: https://opengameart.org/content/50-rpg-sound-effects
+  许可: CC0 1.0
+  原文件: footstep00–03, cloth2, knifeSlice, knifeSlice2, chop, cloth4, creak2, clothBelt, handleCoins
+
+SFX · 挥剑 / 技能破空
+--------------------
+sfx_swing_01.ogg … sfx_swing_04.ogg, sfx_skill.ogg
+  来源包: Swishes Sound Pack
+  作者: artisticdude
+  页面: https://opengameart.org/content/swishes-sound-pack
+  许可: CC0 1.0
+  原文件: swish-1, swish-3, swish-7, swish-9, swish-8
+
+SFX · UI / 升级 / 存档
+---------------------
+sfx_levelup.ogg, sfx_click.ogg, sfx_save.ogg, sfx_error.ogg, sfx_ui_open.ogg
+  来源包: Interface Sounds
+  作者: Kenney (www.kenney.nl)
+  页面: https://opengameart.org/content/interface-sounds
+  许可: CC0 1.0
+  原文件: confirmation_002, click_002, confirmation_001, error_001, drop_002
+
+转码
+----
+全部由本任务在本地用 ffmpeg 转为 Ogg Vorbis，未改动音乐与音效的创作内容。
+缺项（若某次动作没有单独文件）可用 WebAudio 程序化补充，不必另下有版权的声音。
